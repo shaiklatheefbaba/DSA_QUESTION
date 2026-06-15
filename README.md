@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0031-next-permutation) |
@@ -84,9 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
