@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0050-powx-n) |
 ## Array
 |  |
