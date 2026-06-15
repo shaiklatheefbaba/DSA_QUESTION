@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0046-permutations) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0031-next-permutation) |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
