@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
 | [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
