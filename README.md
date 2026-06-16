@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0047-permutations-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0047-permutations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0047-permutations-ii) |
 ## Matrix
 |  |
 | ------- |
