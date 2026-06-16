@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
+| [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 ## Array
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
