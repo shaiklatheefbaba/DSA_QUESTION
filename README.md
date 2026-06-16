@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
