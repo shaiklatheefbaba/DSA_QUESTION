@@ -106,14 +106,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0067-add-binary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
