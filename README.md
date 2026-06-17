@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0125-valid-palindrome) |
+| [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## String Matching
 |  |
 | ------- |
@@ -127,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0047-permutations-ii) |
+| [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Matrix
 |  |
 | ------- |
