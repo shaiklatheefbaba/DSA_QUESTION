@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
