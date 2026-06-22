@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0047-permutations-ii) |
 | [0057-insert-interval](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0057-insert-interval) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
 ## Memoization
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0045-jump-game-ii) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
