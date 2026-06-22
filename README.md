@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 ## Array
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
 ## Memoization
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0044-wildcard-matching) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
