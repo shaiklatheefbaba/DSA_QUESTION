@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 | [1185-day-of-the-week](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/1185-day-of-the-week) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0036-valid-sudoku) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0166-fraction-to-recurring-decimal) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
