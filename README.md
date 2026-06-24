@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0036-valid-sudoku) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0166-fraction-to-recurring-decimal) |
+| [0383-ransom-note](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
+| [0383-ransom-note](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0620-not-boring-movies](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/1251-average-selling-price) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
