@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## String Matching
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
