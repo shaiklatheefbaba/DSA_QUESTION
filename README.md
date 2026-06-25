@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0120-triangle) |
 ## Memoization
 |  |
 | ------- |
