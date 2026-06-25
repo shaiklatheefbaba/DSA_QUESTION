@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
