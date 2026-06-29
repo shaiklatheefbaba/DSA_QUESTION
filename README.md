@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0224-basic-calculator) |
 | [1185-day-of-the-week](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/1185-day-of-the-week) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
 | [0110-balanced-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0383-ransom-note) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
