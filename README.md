@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0096-unique-binary-search-trees) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
