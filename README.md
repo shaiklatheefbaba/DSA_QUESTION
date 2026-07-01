@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0086-partition-list) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shaiklatheefbaba/DSA_QUESTION/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
