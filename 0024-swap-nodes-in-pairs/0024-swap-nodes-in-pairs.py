@@ -4,15 +4,16 @@ class Solution:
         dummy.next = head
         prev = dummy
 
-        while head and head.next:
-            first = head
-            second = head.next
+        while prev.next and prev.next.next:
+            first = prev.next
+            second = first.next
 
-            prev.next = second
+            # Swap the two nodes
             first.next = second.next
             second.next = first
+            prev.next = second
 
+            # Move to the next pair
             prev = first
-            head = first.next
 
         return dummy.next
